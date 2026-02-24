@@ -1,0 +1,32 @@
+D:\Tom\Mod\bin\Debug\net6.0\HUDImprovements.deps.json
+D:\Tom\Mod\bin\Debug\net6.0\HUDImprovements.dll
+D:\Tom\Mod\obj\Debug\net6.0\HUDImprovements.csproj.AssemblyReference.cache
+D:\Tom\Mod\obj\Debug\net6.0\HUDImprovements.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tom\Mod\obj\Debug\net6.0\HUDImprovements.csproj.CoreCompileInputs.cache
+D:\Tom\Mod\obj\Debug\net6.0\HUDImprovements.dll
+D:\Tom\Mod\obj\Debug\net6.0\refint\HUDImprovements.dll
+D:\Tom\Mod\obj\Debug\net6.0\ref\HUDImprovements.dll
+C:\Users\smart\Desktop\HUDImprovements-1.1.0\Source\bin\Debug\net6.0\HUDImprovements.deps.json
+C:\Users\smart\Desktop\HUDImprovements-1.1.0\Source\bin\Debug\net6.0\HUDImprovements.dll
+C:\Users\smart\Desktop\HUDImprovements-1.1.0\Source\obj\Debug\net6.0\HUDImprovements.csproj.AssemblyReference.cache
+C:\Users\smart\Desktop\HUDImprovements-1.1.0\Source\obj\Debug\net6.0\HUDImprovements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smart\Desktop\HUDImprovements-1.1.0\Source\obj\Debug\net6.0\HUDImprovements.csproj.CoreCompileInputs.cache
+C:\Users\smart\Desktop\HUDImprovements-1.1.0\Source\obj\Debug\net6.0\HUDImprovements.dll
+C:\Users\smart\Desktop\HUDImprovements-1.1.0\Source\obj\Debug\net6.0\refint\HUDImprovements.dll
+C:\Users\smart\Desktop\HUDImprovements-1.1.0\Source\obj\Debug\net6.0\ref\HUDImprovements.dll
+D:\Modding\HUDImprovements\bin\Debug\net6.0\HUDImprovements.deps.json
+D:\Modding\HUDImprovements\bin\Debug\net6.0\HUDImprovements.dll
+D:\Modding\HUDImprovements\obj\Debug\net6.0\HUDImprovements.csproj.AssemblyReference.cache
+D:\Modding\HUDImprovements\obj\Debug\net6.0\HUDImprovements.GeneratedMSBuildEditorConfig.editorconfig
+D:\Modding\HUDImprovements\obj\Debug\net6.0\HUDImprovements.csproj.CoreCompileInputs.cache
+D:\Modding\HUDImprovements\obj\Debug\net6.0\HUDImprovements.dll
+D:\Modding\HUDImprovements\obj\Debug\net6.0\refint\HUDImprovements.dll
+D:\Modding\HUDImprovements\obj\Debug\net6.0\ref\HUDImprovements.dll
+D:\Modding\My MODS\HUDImprovements\bin\Debug\net6.0\HUDImprovements.deps.json
+D:\Modding\My MODS\HUDImprovements\bin\Debug\net6.0\HUDImprovements.dll
+D:\Modding\My MODS\HUDImprovements\obj\Debug\net6.0\HUDImprovements.csproj.AssemblyReference.cache
+D:\Modding\My MODS\HUDImprovements\obj\Debug\net6.0\HUDImprovements.GeneratedMSBuildEditorConfig.editorconfig
+D:\Modding\My MODS\HUDImprovements\obj\Debug\net6.0\HUDImprovements.csproj.CoreCompileInputs.cache
+D:\Modding\My MODS\HUDImprovements\obj\Debug\net6.0\HUDImprovements.dll
+D:\Modding\My MODS\HUDImprovements\obj\Debug\net6.0\refint\HUDImprovements.dll
+D:\Modding\My MODS\HUDImprovements\obj\Debug\net6.0\ref\HUDImprovements.dll

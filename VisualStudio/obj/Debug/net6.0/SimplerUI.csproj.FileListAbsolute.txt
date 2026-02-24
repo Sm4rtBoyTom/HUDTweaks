@@ -1,0 +1,8 @@
+C:\Users\smart\Desktop\Mod\bin\Debug\net6.0\SimplerUI.deps.json
+C:\Users\smart\Desktop\Mod\bin\Debug\net6.0\SimplerUI.dll
+C:\Users\smart\Desktop\Mod\obj\Debug\net6.0\SimplerUI.csproj.AssemblyReference.cache
+C:\Users\smart\Desktop\Mod\obj\Debug\net6.0\SimplerUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smart\Desktop\Mod\obj\Debug\net6.0\SimplerUI.csproj.CoreCompileInputs.cache
+C:\Users\smart\Desktop\Mod\obj\Debug\net6.0\SimplerUI.dll
+C:\Users\smart\Desktop\Mod\obj\Debug\net6.0\refint\SimplerUI.dll
+C:\Users\smart\Desktop\Mod\obj\Debug\net6.0\ref\SimplerUI.dll
