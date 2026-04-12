@@ -6,7 +6,7 @@ A video game developed by [Hinterland Games](https://hinterlandgames.com/).
 #### Yes I know mod made by [DigitalZombie](https://github.com/DigitalzombieTLD) is integrated directly into this mod.
 Disables the hover text on items and / or fires. You've played the game long enough, you know how a stick looks like.
 ### Installation
-- **Install** [ModSettings](https://github.com/DigitalzombieTLD/ModSettings/releases/tag/v2.0) **and it's dependencies.**
+- **Install** [ModSettings](https://github.com/DigitalzombieTLD/ModSettings/releases) **and it's dependencies.**
 
 - **Drop the** **.dll** **file into your mods folder**.
 - **Enjoy**!
