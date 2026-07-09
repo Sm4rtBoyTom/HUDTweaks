@@ -1,6 +1,0 @@
-﻿[assembly: AssemblyTitle("HudTweaks")]
-[assembly: AssemblyCopyright("Sm4rtBoyTom")]
-[assembly: AssemblyVersion("2.0.0")]
-[assembly: AssemblyFileVersion("2.0.0")]
-[assembly: MelonInfo(typeof(HUDTweaks.HudTweaks), "HudTweaks", "2.0.0", "Sm4rtBoyTom", null)]
-[assembly: MelonGame("Hinterland", "TheLongDark")]
